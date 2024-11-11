@@ -1,0 +1,7 @@
+build*
+smr_public_key.json*
+smr_secret_key.pem*
+supra_history*
+.idea*
+supra_node_logs*
+.DS_Store

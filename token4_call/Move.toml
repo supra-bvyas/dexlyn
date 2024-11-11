@@ -1,0 +1,16 @@
+[package]
+name = "TOKEN4"
+version = "1.0.0"
+authors = []
+
+[addresses]
+token_deployer="0x2d8590c9aad97948098da1e91604de05d4e6936887933a3014cbda80c78791ec"
+
+[dev-addresses]
+
+[dependencies.SupraFramework]
+git = "https://github.com/Entropy-Foundation/aptos-core.git"
+rev = "dev"
+subdir = "aptos-move/framework/supra-framework"
+
+[dev-dependencies]
