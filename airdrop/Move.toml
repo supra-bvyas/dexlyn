@@ -5,7 +5,7 @@ authors = []
 upgrade_policy = "compatible"
 
 [addresses]
-airdrop_deployer="0x14b546fb7cf1a6cef01b0639153efd87bc2152d42326cba9e1a1bfa24d5ef99f"
+airdrop_deployer="0xacff8ae34d6d2e2d879e47599b7a6b8738429ff7015a664c087f81e0cb36ceaf"
 
 
 [dev-addresses]
